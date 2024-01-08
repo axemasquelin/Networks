@@ -1,9 +1,11 @@
 # coding: utf-8
 """ MIT License """
 '''
-    Project: Personal Backups
+    Project: Scratch
     Authors: Axel Masquelin
-    Description:
+    Description: Implementation of Inception modules and exploring various design
+    implementation. 
+
 '''
 # Libraries
 # ---------------------------------------------------------------------------- #
